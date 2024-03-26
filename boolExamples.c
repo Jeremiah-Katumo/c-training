@@ -18,6 +18,7 @@ int main() {
     } else {
       printf("Wrong code.\nThe door remains closed.\n");
     }
+
     ///////////////////
     int myNum = 10; // Is this a positive or negative number?
 
